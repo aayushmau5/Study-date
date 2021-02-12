@@ -4,6 +4,18 @@
 
 See live at https://study-date-eda7b.web.app/
 
+**This project won the first prize in OSDC Codejam-21**
+
+Collaborators:
+
+1. [Arpit Jain](https://github.com/osBins)
+
+2. [Akshat Jain](https://github.com/akshatjain-akj)
+
+3. [Shrey Gandhi](https://github.com/profgandhi)
+
+4. [Aayush Kumar Sahu](https://github.com/aayushmau5)
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
