@@ -2,6 +2,8 @@
     <img src=src/components/Homepage/logo2.png height=200>
 </p>
 
+Original Repo: https://github.com/osdc/codejam-21/tree/main/flashy-fries
+
 See live at https://study-date-eda7b.web.app/
 
 **This project won the first prize in OSDC Codejam-21**
